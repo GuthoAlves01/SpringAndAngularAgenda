@@ -1,4 +1,4 @@
-# :green_circle: SpringAndAngular projeto 1 :red_circle:
+# :green_circle: SpringAndAngularAgenda projeto 1 :red_circle:
 Projeto 1: desenvolvido no decorrer do curso "Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado"
 
 
